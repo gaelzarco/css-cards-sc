@@ -1,0 +1,1 @@
+console.log('index.js is linked with html')
